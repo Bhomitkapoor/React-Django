@@ -6,3 +6,6 @@ Update the Movies in list.
 Remove movies form DB.
 Register + Login
 Authorise a User
+
+
+That WIll be a cross platform App.
